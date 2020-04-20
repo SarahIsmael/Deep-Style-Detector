@@ -41,7 +41,7 @@ DeepStyleDetector.py
 ## CLamm dataset
 
 ### Clamm Data Collection
-The CLAMM dataset can be downloaded from the CLAMM compition website ([Training set](https://clamm.irht.cnrs.fr/wp-content/uploads/ICDAR2017_CLaMM_Training.zip) and [Test set](https://clamm.irht.cnrs.fr/wp-content/uploads/ICDAR2017_CLaMM_task1_task3.zip)
+The CLAMM dataset can be downloaded from the CLAMM compition website ([Training set](https://clamm.irht.cnrs.fr/wp-content/uploads/ICDAR2017_CLaMM_Training.zip) and [Test set](https://clamm.irht.cnrs.fr/wp-content/uploads/ICDAR2017_CLaMM_task1_task3.zip))
 
 `Clammdataprocess.py` prepares the data to be used by the DeepStyleDetectorCLAMM.py module.
 
@@ -85,4 +85,4 @@ DeepStyleDetectorCLAMM.py
 ```
 
 ### Trained Models
-The pre-trained models are available here: https://drive.google.com/drive/folders/1foLYb2733MuIYYrhT76Fw4aGsvHdogXV?usp=sharing
+The pre-trained models are available [here](https://drive.google.com/drive/folders/1foLYb2733MuIYYrhT76Fw4aGsvHdogXV?usp=sharing).
